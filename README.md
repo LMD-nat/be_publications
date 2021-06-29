@@ -12,7 +12,7 @@ All of the work mentioned here is from my supervisor, [Ben Eppinger](https://www
 
 ## 2021
 
-**Eppinger, B.**, Goschke, T., & Musslick, S. (2021). Meta-control: From psychology to computational neuroscience. *Cognitive, affective & behavioral neuroscience*, 21*(3)*, 447–452. https://doi.org/10.3758/s13415-021-00919-4 [[pdf]](https://github.com/LDMLab/LDMLab.github.io/blob/master/pdf_publications/BE_35.pdf)
+**Eppinger, B.**, Goschke, T., & Musslick, S. (2021). Meta-control: From psychology to computational neuroscience. *Cognitive, affective & behavioral neuroscience*, 21(3), 447–452. https://doi.org/10.3758/s13415-021-00919-4 [[pdf]](https://github.com/LDMLab/LDMLab.github.io/blob/master/pdf_publications/BE_35.pdf)
 
 Reiter, A. M., Diaconescu, A. O., **Eppinger, B.**, & Li, S. C. (2021). Human aging alters social inference about others’ changing intentions. *Neurobiology of Aging*, 103, 98–108. https://doi.org/10.1016/j.neurobiolaging.2021.01.034 [[pdf]](https://github.com/LDMLab/LDMLab.github.io/blob/master/pdf_publications/BE_34.pdf)
 
